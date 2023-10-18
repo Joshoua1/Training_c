@@ -1,0 +1,33 @@
+Operators in c
+ 1. Arithamatic Operators
+ 2. Logical Operators
+ 3. Bitwise Operators
+ 4. Assignment Operators
+ 5. Relational Operators
+ 6. Unary Operators
+ 7. Special Compound Assignment
+
+
+write a program on c to see if the number is divsible by 5
+
+write a program wether the yaer entered by user is a leap yaer
+
+write a c program to input month number and input number of days in the month
+
+write a procram to check wether the triangle is which type of triangle4
+
+write a c program to find the roots of a quadratic Equation
+
+write a code for simple intrest and Compound intrest
+
+write a program to display the power of a number
+
+Tokens
+
+Identifiers.
+Keywords.
+Constants.
+Operators.
+Special Characters.
+Strings.
+
